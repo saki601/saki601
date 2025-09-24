@@ -18,15 +18,6 @@
 - 🌟 Frontend and UI/UX-based web apps
 - 🎮 Fun little side projects or hackathons!
 
----
-
-### 📫 How to Reach Me
-- 📧 Email: `youremail@example.com`
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
 
 ### 🔧 Tools & Technologies
 
