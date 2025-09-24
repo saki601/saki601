@@ -46,16 +46,6 @@
 
 ---
 
-### 🎯 GitHub Streak & Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saki601&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://activity-graph.herokuapp.com/graph?username=saki601&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 👀 Visitor Counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saki601&label=Profile+Views&color=blueviolet&style=flat" alt="saki601" />
