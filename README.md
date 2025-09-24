@@ -1,45 +1,73 @@
-<h1 align="center">Hi there, I'm @saki6 👋</h1>
+<h1 align="center">Hey there 👋, I'm @saki6!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48tR0q5l2xQy4/giphy.gif" width="200" alt="Coding cat">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7971E&center=true&vCenter=true&width=440&lines=Web+Developer+in+progress...;Learning+Every+Single+Day!;Let's+build+something+cool+💻" alt="Typing SVG">
 </p>
 
 ---
 
-### 🌱 Currently Learning
-- 🔭 Diving into the world of **web development** (HTML, CSS, JS)
-- 🌐 Exploring **React.js** and **Next.js**
-- 💻 Dipping my toes into **Python** and **machine learning**
+### 🌱 What I'm Currently Learning
+<details>
+  <summary>Click to expand!</summary>
+  
+  - 🖥️ HTML, CSS & JavaScript (the holy trinity 🌐)
+  - ⚛️ React.js and component-based UIs
+  - 🐍 Python and beginner machine learning
+  - 🎨 UI/UX principles for cleaner interfaces
+</details>
 
 ---
 
-### 🤝 Looking to Collaborate On
-- 💡 Open-source beginner-friendly projects
-- 🌟 Frontend and UI/UX-based web apps
-- 🎮 Fun little side projects or hackathons!
+### 🤝 What I Want to Collaborate On
+<details>
+  <summary>Click for ideas 💡</summary>
+
+  - 🔧 Open-source beginner-friendly web apps
+  - 🎮 Browser-based games or creative projects
+  - 💬 Discord bots, tools, or small SaaS ideas
+  - 📦 Frontend UI component libraries
+</details>
 
 
-### 🔧 Tools & Technologies
+### ⚡ Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
+| Frontend | Backend | Tools |
+|----------|---------|-------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saki601&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saki601&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saki601&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saki601&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
 
+### 🎯 GitHub Streak & Activity
+
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" alt="Typing cat">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saki601&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://activity-graph.herokuapp.com/graph?username=saki601&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-<p align="center"><i>"Keep learning. Keep building. Stay curious!" 🚀</i></p>
+---
+
+### 👀 Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saki601&label=Profile+Views&color=blueviolet&style=flat" alt="saki601" />
+</p>
+
+---
+
+### 🎉 Fun Fact
+
+> 💬 *“Code is like humor. When you have to explain it, it’s bad.”*  
+> — *Cory House*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding cat GIF">
+</p>
